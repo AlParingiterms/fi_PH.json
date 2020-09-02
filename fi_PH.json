@@ -164,16 +164,14 @@
   "world.task.new": "May bago kang gawain!",
 
   "tribes.nature": "Kalikasan",
- 
- "tribes.xin-xi": "Xin-xi",
- "tribes.xin-xi.info": "Sinimulan nila ang kanilang paglalakbay sa mga siksik na bundok, napapaligiran ng magandang bulaklak ng seresa. \n\n{0} sinisimulan ang laro sa teknolohiyang '{1}'.
- 
+  "tribes.xin-xi": "Xin-xi",
+  "tribes.xin-xi.info": "Sinimulan nila ang kanilang paglalakbay sa mga siksik na bundok, napapaligiran ng magandang bulaklak ng seresa. \n\n{0} sinisimulan ang laro sa teknolohiyang '{1}'.,
   "tribes.imperius": "Imperius",
-  "tribes.imperius.info": "Napakalaking bundok at berdeng mga lambak. Ang klima na {0} ay perpekto para sa lumalagong prutas. \n\n{0} sinisimulan ang laro sa teknolhiya na '{1}'.",
+  "tribes.imperius.info": "Napakalaking bundok at berdeng mga lambak. Ang klima na {0} ay perpekto para sa lumalagong prutas. \n\n{0} sinisimulan ang laro sa teknolhiya na '{1}'.".,
   "tribes.bardur": "Bardur",
-  "tribes.bardur.info": "Ang pagtaguyod sa matitinding walang hanggang taglamig ng {0} kakahuyan ay hindi isang madaling gawain, ngunit {0} tila umunlad dito. \N\n{0} sinisimulan ang laro sa teknolohiyang '{1}'."
+  "tribes.bardur.info": "Ang pagtaguyod sa matitinding taglamig ng {0} kakahuyan ay hindi isang madaling gawain, ngunit {0} tila umunlad dito. \n\n{0} sinisimulan ang laro sa teknolohiyang '{1}'.".,
   "tribes.oumaji": "Oumaji",
-  "tribes.oumaji.info": "Ang tila walang katapusang, basbas na disyerto ng araw ay ang tahanan ng {0} tribo.\n\n{0} sinisimulan ang laro sa teknolohiyang '{1}'.",
+  "tribes.oumaji.info": "Ang tila walang katapusang, basbas na disyerto ng araw ay ang tahanan ng {0} tribo.\n\n{0} sinisimulan ang laro sa teknolohiyang '{1}'.".,
   "tribes.kickoo": "Kickoo",
   "tribes.kickoo.info": "Puting mabuhanging beach na may mga palad ng niyog. Saganang prutas at isda. Maligayang pagdating sa tahanan ng {0}. \n\n{0} sinisimulan ang laro sa tech na '{1}'.",
   "tribes.hoodrick": "Hoodrick",
